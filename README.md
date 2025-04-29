@@ -69,7 +69,7 @@
 
 ### MySQL 数据库
 
-1）修改 `application.yml` 的数据库配置为自己的：
+1）修改 `application.yml` 的数据库配置为：
 
 ```yml
 spring:
